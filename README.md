@@ -1,5 +1,5 @@
-# BokkyPooBah's CheatSheet
-BokkyPooBah's CheatSheet
+# Bokky's CheatSheet
+Bokky's CheatSheet
 
 See the [wiki](https://github.com/bokkypoobah/BokkysCheatSheet/wiki).
 
